@@ -54,6 +54,6 @@ jobs:
 
           git diff --cached --quiet || git commit -m "Sync from Dev Repo"
 
-          git push origin main
+          git push origin ag2924-patch-2
 
  
