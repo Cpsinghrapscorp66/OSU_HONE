@@ -38,7 +38,7 @@ jobs:
  
           # Clone Dev repo
 
-          git clone https://ONE-HONE:${PAT}@git.yale.edu/ONE-HONE/OSU_HONE.git
+          git clone https://ONE-HONE:${PAT}@git.yale.edu/ONE-HONE/OSU_HONE/blob/ag2924-patch-2
  
           # Copy files from Dev repo to Prod repo
 
